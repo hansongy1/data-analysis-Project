@@ -1,2 +1,4 @@
-# data-analysis-Project
-Depends on the ability of the elderly to use online information Leisure and cultural life
+# 노인의 온라인 정보 활용 능력에 따른 여가문화생활
+<!-- # data-analysis-Project -->
+
+노인의 여가시설과 관련한 사회적 문제를 해결하기 위해 데이터 분석 및 해결방안 제안
